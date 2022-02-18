@@ -1,0 +1,22 @@
+[
+  [
+    "city",
+    "Amsterdam"
+  ],
+  [
+    "weather",
+    "broken clouds"
+  ],
+  [
+    "temperature",
+    10.27
+  ],
+  [
+    "min_degrees",
+    8.83
+  ],
+  [
+    "max_degrees",
+    11.15
+  ]
+]
