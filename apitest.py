@@ -9,7 +9,7 @@ app = FastAPI()
 
 inventory = {
         1: {  
-            "name": "test",
+            "name": "aap",
             "price": 2.56,
             "brand": "test"     
 
