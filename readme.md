@@ -1,8 +1,1 @@
-echo "# stage-accell" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/rheide1202/stage-accell.git
-git push -u origin main
-
+this repository is meant for some practice projects for my internship. in this internship i had to use api to retrieve information.  
